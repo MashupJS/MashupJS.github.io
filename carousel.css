@@ -8,31 +8,6 @@ body {
   /*color: #87bd03;*/
 }
 
-.carousel-control:hover, .carousel-control:focus {
-color: #fff;
-text-decoration: none;
-outline: 0;
-opacity: .9;
-}
-
-.carousel .container {
-  background-color: red;
-}
-
-.carousel-control {
-  background-color: green;
-}
-
-.carousel .item {
-  background-color: black;
-}
-
-.carousel-caption h1,
-.carousel-caption .lead {
-    background-color: yellow;
-}
-
-
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
 
@@ -84,6 +59,43 @@ opacity: .9;
   min-width: 100%;
   height: 500px;
 }
+
+
+.carousel-control:hover, .carousel-control:focus {
+color: #fff;
+text-decoration: none;
+outline: 0;
+opacity: .9;
+}
+
+.carousel .container {
+  background-color: red;
+}
+
+.carousel-control {
+  background-color: green;
+}
+
+.carousel .item {
+  background-color: black;
+}
+
+.carousel-caption h1,
+.carousel-caption .lead {
+    background-color: yellow;
+}
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 /* MARKETING CONTENT
