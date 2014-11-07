@@ -24,7 +24,10 @@ background-image: linear-gradient(to right,rgba(0,0,0,.5) 0,rgba(0,0,0,.5) 100%)
 background-repeat: repeat-x;
 }
 
-
+.carousel-control.container{
+background-image: linear-gradient(to right,rgba(0,0,0,.5) 0,rgba(0,0,0,.5) 100%);
+background-repeat: repeat-x;
+}
 
 
 /* CUSTOMIZE THE NAVBAR
