@@ -15,18 +15,21 @@ outline: 0;
 opacity: .9;
 }
 
-.carousel-control.left {
-background-image: linear-gradient(to right,rgba(0,0,0,.5) 0,rgba(0,0,0,.5) 100%);
-background-repeat: repeat-x;
-}
-.carousel-control.right {
-background-image: linear-gradient(to right,rgba(0,0,0,.5) 0,rgba(0,0,0,.5) 100%);
-background-repeat: repeat-x;
+.carousel .container {
+  background-color: red;
 }
 
-.carousel-control.container{
-background-image: linear-gradient(to right,rgba(0,0,0,.5) 0,rgba(0,0,0,.5) 100%);
-background-repeat: repeat-x;
+.carousel-control {
+  background-color: green;
+}
+
+.carousel .item {
+  background-color: black;
+}
+
+.carousel-caption h1,
+.carousel-caption .lead {
+    background-color: yellow;
 }
 
 
