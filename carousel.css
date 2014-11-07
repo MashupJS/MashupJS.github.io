@@ -8,6 +8,21 @@ body {
   /*color: #87bd03;*/
 }
 
+.carousel-control:hover, .carousel-control:focus {
+color: #fff;
+text-decoration: none;
+outline: 0;
+opacity: .9;
+}
+
+.carousel-control.left {
+background-image: linear-gradient(to right,rgba(0,0,0,.5) 0,rgba(0,0,0,.5) 100%);
+background-repeat: repeat-x;
+}
+
+
+
+
 
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
