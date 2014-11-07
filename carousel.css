@@ -68,21 +68,21 @@ outline: 0;
 opacity: .9;
 }
 
-.carousel .container {
+/*.carousel .container {
   background-color: red;
-}
+}*/
 
 .carousel-control {
-  background-color: green;
+  background-color: #87bd03;
 }
 
 .carousel .item {
-  background-color: black;
+  background-color: #87bd03;
 }
 
 .carousel-caption h1,
 .carousel-caption .lead {
-    background-color: yellow;
+    background-color: #87bd03;
 }
 
 
